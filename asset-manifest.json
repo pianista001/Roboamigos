@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roboamigos/static/css/main.066e0502.chunk.css",
+    "main.js": "/roboamigos/static/js/main.ab3cd90b.chunk.js",
+    "main.js.map": "/roboamigos/static/js/main.ab3cd90b.chunk.js.map",
+    "runtime-main.js": "/roboamigos/static/js/runtime-main.d7cd81d7.js",
+    "runtime-main.js.map": "/roboamigos/static/js/runtime-main.d7cd81d7.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/roboamigos/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/roboamigos/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/roboamigos/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/roboamigos/index.html",
+    "precache-manifest.0f1fa9ccbe80da9fa0bedb11676a29e8.js": "/roboamigos/precache-manifest.0f1fa9ccbe80da9fa0bedb11676a29e8.js",
+    "service-worker.js": "/roboamigos/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/roboamigos/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.066e0502.chunk.css.map": "/roboamigos/static/css/main.066e0502.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/roboamigos/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/roboamigos/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7cd81d7.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.066e0502.chunk.css",
+    "static/js/main.ab3cd90b.chunk.js"
+  ]
+}
